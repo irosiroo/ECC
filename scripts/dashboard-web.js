@@ -941,6 +941,7 @@ module.exports = {
   listenDashboardServer,
   loadAgents,
   loadCommands,
+  loadDashboardData,
   loadHooks,
   loadMcps,
   loadRules,

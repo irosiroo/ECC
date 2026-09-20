@@ -6,5 +6,20 @@
       "source": "/",
       "destination": "/api/index"
     }
-  ]
+  ],
+  "functions": {
+    "api/index.js": {
+      "includeFiles": [
+        "agents/**",
+        "skills/**",
+        "commands/**",
+        "rules/**",
+        "hooks/**",
+        "mcp-configs/**",
+        ".mcp.json",
+        "scripts/dashboard-web.js",
+        "scripts/lib/**"
+      ]
+    }
+  }
 }

